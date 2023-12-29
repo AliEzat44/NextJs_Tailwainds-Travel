@@ -1,0 +1,16 @@
+{
+    "compilerOptionos": {
+        "checkJs": true ,
+        "jsx": "react-jsx" ,
+        "baseUrl": "scr",
+        "resolveJsonModule": true ,
+        "lib": ["es6" , "domm" , "es2017"]
+    },
+    "include" : [
+        "src"
+    ],
+    "exclude": [
+        "node_modules" , 
+        "build"
+    ]
+}
